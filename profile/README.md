@@ -1,4 +1,4 @@
-## Hi there 👋
+## dice - 팝업 운영 올인원 솔루션의 Repository 입니다
 
 <!--
 
