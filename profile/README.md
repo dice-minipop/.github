@@ -1,7 +1,8 @@
 ## dice - 팝업 운영 올인원 솔루션의 Repository 입니다
 
-<!--
+<img width="3042" height="2700" alt="insta_hostweb" src="https://github.com/user-attachments/assets/1e041b39-ac3f-4944-967d-3e568106ff5f" />
 
+<!--
 **Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
