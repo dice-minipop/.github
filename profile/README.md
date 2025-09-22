@@ -1,6 +1,6 @@
 ## dice - 팝업 운영 올인원 솔루션의 Repository 입니다
 
-<img width="3042" height="2700" alt="insta_hostweb" src="https://github.com/user-attachments/assets/1e041b39-ac3f-4944-967d-3e568106ff5f" />
+<img width="3042" height="2700" alt="insta_hostweb" src="https://github.com/user-attachments/assets/4d3e9710-83f9-408b-a10e-2e4ca763b442" />
 
 <!--
 **Here are some ideas to get you started:**
